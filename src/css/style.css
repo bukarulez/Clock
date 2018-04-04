@@ -1,0 +1,19 @@
+.odometer.odometer-animating-up .odometer-ribbon-inner, .odometer.odometer-animating-down.odometer-animating .odometer-ribbon-inner {
+    -webkit-transition-duration: 0.7s !important;
+    -moz-transition-duration: 0.7s !important;
+    -ms-transition-duration: 0.7s !important;
+    -o-transition-duration: 0.7s !important;
+    transition-duration: 0.7s !important
+}
+
+.odometer {
+    font-size: 50px;
+}
+
+#clock, #DropDownTimezone{
+    margin: 10px;
+}
+
+#DropDownTimezone{
+    font-size: 20px;
+}
